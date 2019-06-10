@@ -87,9 +87,6 @@ img{
     font-size: 2rem;
   }
 
-
-
-
   /* come si funziona */
   #steps .row > .left,
   #steps .row > .central,
@@ -98,6 +95,22 @@ img{
     width: 100%;
     margin-bottom: 60px;
   }
+
+  #steps .row > .left h3,
+  #steps .row > .central h3,
+  #steps .row > .right h3{
+
+  font-size: 2rem;
+  }
+
+
+  #why .row img {
+    height: 100px;
+  }
+
+
+
+
 
 
 
